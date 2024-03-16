@@ -1,0 +1,17 @@
+[
+    {
+        "title":"VIDEO 1",
+        "content": "Random content for the video 1.",
+        "url":"https://www.youtube.com/embed/Ho1NLq7fpJQ"
+    },
+    {
+        "title":"VIDEO 2",
+        "content": "Random content for the video 2.",
+        "url":"https://www.youtube.com/embed/S9qp7QMCabM"
+    },
+    {
+        "title":"VIDEO 3",
+        "content": "Random content for the video 3.",
+        "url":"https://www.youtube.com/embed/q1AvJPTrfM4"
+    }
+]
